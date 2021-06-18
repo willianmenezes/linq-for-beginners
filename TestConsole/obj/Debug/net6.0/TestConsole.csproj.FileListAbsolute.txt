@@ -1,0 +1,15 @@
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\TestConsole.exe
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\TestConsole.deps.json
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\TestConsole.runtimeconfig.json
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\TestConsole.dll
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\ref\TestConsole.dll
+C:\Users\willi\Desktop\TestConsole\TestConsole\bin\Debug\net6.0\TestConsole.pdb
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.csproj.AssemblyReference.cache
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfoInputs.cache
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.AssemblyInfo.cs
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.csproj.CoreCompileInputs.cache
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.dll
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\ref\TestConsole.dll
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.pdb
+C:\Users\willi\Desktop\TestConsole\TestConsole\obj\Debug\net6.0\TestConsole.genruntimeconfig.cache
